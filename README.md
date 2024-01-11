@@ -2,6 +2,11 @@
 
 The Divyu E-commerce Dashboard is a dynamic data visualization tool created using Power BI, offering comprehensive insights into the performance and key metrics of the Divyu online store. This dashboard is designed to facilitate informed decision-making and strategic planning.
 
+
+
+![PowerBI](https://github.com/hiteshty/Power-BI/assets/111706795/e2ebcd3f-580d-4db7-874e-82a912f88143)
+
+
 ## Features
 
 * **Sales Analysis:** Visualize sales trends, revenue, and product performance.
